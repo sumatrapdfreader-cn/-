@@ -10,7 +10,7 @@
 
 2. 微信号：liuxiaoyunkefu，微信群：
 
-3. 不完全受害者名录：[点击查看]( .\受害者名录.md)
+3. 不完全受害者名录：[点击查看](https://github.com/sumatrapdfreader-cn/boom-bank/blob/main/%E5%8F%97%E5%AE%B3%E8%80%85%E5%90%8D%E5%BD%95.md)
 
 4. 相关材料:
     - 禹州新民生村镇银行: [点击查看]( .\禹州新民生村镇银行\禹州新民生村镇银行.md)
